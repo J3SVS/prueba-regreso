@@ -12,6 +12,36 @@ import matplotlib.pyplot as plt
 from functions import QAA
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Class aun no funciona perfecto
 class BacktestingDinamico:
     def __init__(self, tickers, start_date, start_backtesting, end_date, frecuencias_rebalanceo_meses, rf, optimization_strategy, optimization_model, valor_portafolio_inicial):
