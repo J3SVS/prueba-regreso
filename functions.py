@@ -32,7 +32,7 @@ from pypfopt.hierarchical_portfolio import HRPOpt
 optuna.logging.set_verbosity(optuna.logging.WARNING)
 warnings.filterwarnings('ignore', message='A new study created in memory with name:')
 warnings.filterwarnings('ignore', message='Method COBYLA cannot handle bounds.')
-import empyrical # pip install empyrical
+#import empyrical # pip install empyrical
 
 # ----------------------------------------------------------------------------------------------------
 
